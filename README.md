@@ -9,3 +9,7 @@ Watch tutorial on YouTube
 ## Local Development
 
 Please open your index.html in your browser.
+
+# Pushing changes to GitHub
+
+Additonal changes
