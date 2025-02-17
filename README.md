@@ -12,4 +12,4 @@ Please open your index.html in your browser.
 
 # Pushing changes to GitHub
 
-Additonal changes
+Additional changes for a pull request.
